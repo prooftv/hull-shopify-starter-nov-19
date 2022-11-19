@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "ieasd5lg",
+    "projectId": "rlf727jy",
     "dataset": "production"
   },
   "project": {
-    "name": "HULL",
+    "name": "Mr Salons Beauty Boutique Online",
     "basePath": "/studio"
   },
   "plugins": [
