@@ -4,7 +4,7 @@
     "description": "Headless Shopify starter powered by Next.js + Sanity.io",
     "previewMedia": {
       "type": "image",
-      "src": ".sanity-template/assets/MrSalons.png",
+      "src": ".sanity-template/assets/HULL-cover.png",
       "alt": "Mr Salons Shop"
     },
     "technologies": [
