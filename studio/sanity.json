@@ -5,7 +5,7 @@
     "dataset": "production"
   },
   "project": {
-    "name": "Mr Salons Beauty Boutique Online",
+    "name": "mrsalons",
     "basePath": "/studio"
   },
   "plugins": [
