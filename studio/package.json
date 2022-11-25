@@ -1,9 +1,9 @@
 {
-  "name": "MrSalonsShop",
+  "name": "mrsalons-shop",
   "private": true,
   "version": "1.0.0",
   "main": "package.json",
-  "author": "Nick DiMatteo <hello@nickdimatteo.com>",
+  "author": "Bheki <bheki@mrsalons.co.za>",
   "scripts": {
     "build": "sanity build",
     "dev": "sanity start",
